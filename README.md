@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 I'm Dipesh Nepali<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center"> Graphic Designer, Web Enthusiast and Data Science Enthusiast</h3>
+<h3 align="center"> Graphic Designer, Web and Data Science Enthusiast</h3>
 
 <br>
 <b>"If I don't code, then I don't know what I'am doing"</b>
