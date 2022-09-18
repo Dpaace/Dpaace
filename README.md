@@ -5,11 +5,11 @@
 <br>
 <b>"If I don't code, then I don't know what I'am doing"</b>
 
-<p>
+
 - Bsc. Hons Computing  @Softwarica College of IT and E-comerce. 🎓
 - Looking for opportunities and collaborations in the field of programming. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-</p>
+
 
 <h3 align="left">Interests:</h3>
 
