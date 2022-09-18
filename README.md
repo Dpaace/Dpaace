@@ -1,21 +1,21 @@
 <h1 align="center">Hi there👋 I'm Dipesh Nepali<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center"> Graphic Designer, Web and Data Science Enthusiast</h3>
+<h3 align="center"> Trying to be a programmer</h3>
 
 <br>
 <b>"If I don't code, then I don't know what I'am doing"</b>
 
 <p>
 - Bsc. Hons Computing  @Softwarica College of IT and E-comerce. 🎓
-- Looking for opportunities and collaborations in the field of Web development, UI/UX and Graphic Designing. ✅
+- Looking for opportunities and collaborations in the field of programming. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 </p>
 
 <h3 align="left">Interests:</h3>
 
 - Graphic Designer 📊
-- UI/UX Designer 💻
-- Web Development
+- Mobile Application
+- Programming
 - Data Science
 
 <h3 align="left">Languages:</h3>
